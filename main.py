@@ -1,5 +1,4 @@
 from tkinter import *
-from playsound import playsound
 import tkinter.font as font
 import time
 
